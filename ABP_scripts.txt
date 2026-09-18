@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Jeffrey's ABP Filters
+! Title: Jeffrey's ABP Filters v2
 ! Description: Personal Adblock Plus filter list
 
-yahoo.com##li
+yahoo.com#?#li:-abp-has(a[data-ylk*="ll4:badge-pets & animals"])
