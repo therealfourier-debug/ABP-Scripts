@@ -1,1 +1,5 @@
+[Adblock Plus 2.0]
+! Title: Jeffrey's ABP Filters
+! Description: Personal Adblock Plus filter list
+
 yahoo.com##li
