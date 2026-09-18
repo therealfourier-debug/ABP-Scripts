@@ -1,1 +1,2 @@
-yahoo.com#?#li:-abp-has(a[data-ylk*="ll4:badge-pets & animals"])
+yahoo.com##li
+''
