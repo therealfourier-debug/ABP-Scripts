@@ -2,4 +2,8 @@
 ! Title: Jeffrey's ABP Filters v2
 ! Description: Personal Adblock Plus filter list
 
+! Blocks the damned pet category that won't go away
 yahoo.com#?#li:-abp-has(a[data-ylk*="ll4:badge-pets & animals"])
+
+!Blocks the popup images/videos when you scroll an article.
+yahoo.com##.evp-docked
